@@ -19,7 +19,6 @@
 //
 //  ###########################################################################
 
-//Adding this line to check how commit works in git hub: lalitha
 
 interface i2c_intf;
   wire scl;
